@@ -14,6 +14,6 @@
 <h3>Installing</h3>
 <ul>
   <li>Fork and clone this repository</li>
-  <li>Run `npm install` && `cd ios && pod install && cd ..` in your terminal</li>
+  <li>Run `npm install` and `cd ios && pod install && cd ..` in your terminal</li>
   <li>Run `npm run start` to launch the app</li>
 </ul>
